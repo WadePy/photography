@@ -1,17 +1,17 @@
 # Base configs
-baseurl: "https://wadepy.github.io/photography/"
+baseurl: "https://wadepy.github.io/photography"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography by xianyi"
+title: "Photography by Xianyi"
 subtitle: "See the world through my eyes!"
-author: "xianyi"
+author: "Xianyi"
 header:
  title: "Photography"
- subtitle: "by Ram xianyi"
+ subtitle: "by Xianyi"
 footer:
  name: "Hey there, my name is xianyi"
  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
